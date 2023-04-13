@@ -32,13 +32,13 @@ me.say_hi()
 ## 📈 Github Stats
 
 <div align="center">
-    <img alt="Prince Prajapati's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dariodenardi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" height="200"/>
-    <img alt="Prince Prajapati's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=dariodenardi&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&sideLabels=0078D4&currStreakLabel=0078D4&stroke=0078D4&ring=0078D4" />
+    <img alt="Prince Prajapati's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Princy0&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" height="200"/>
+    <img alt="Prince Prajapati's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Princy0&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&sideLabels=0078D4&currStreakLabel=0078D4&stroke=0078D4&ring=0078D4" />
   </div>
 
   <hr/>
 
   <div>
-    <img alt="Prince Prajapati's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=dariodenardi&custom_title=Dario%20De%20Nardi's%20Contribution%20Graph&bg_color=0D1117&color=0078D4&line=FFFFFF&point=0078D4&hide_border=true" />
+    <img alt="Prince Prajapati's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Princy0&custom_title=Dario%20De%20Nardi's%20Contribution%20Graph&bg_color=0D1117&color=0078D4&line=FFFFFF&point=0078D4&hide_border=true" />
   <div>
 </div>
