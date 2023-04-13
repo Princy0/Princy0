@@ -8,6 +8,10 @@
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
 
+  <p align="center">
+  <a href="http://Princy0.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red"></a>
+  <a href="https://github.com/jenilpatel1301/jenilpatel1301.github.io/blob/main/JenilResume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-blue"></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Princy0&label=Profile%20views&color=0e75b6&style=flat" alt="Princy0" /> </p>
 
 ## 🏋 About Me
