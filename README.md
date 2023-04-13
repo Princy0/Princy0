@@ -44,7 +44,4 @@ me.say_hi()
 
   <hr/>
 
-  <div>
-    <img alt="Prince Prajapati's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Princy0&custom_title=Dario%20De%20Nardi's%20Contribution%20Graph&bg_color=0D1117&color=0078D4&line=FFFFFF&point=0078D4&hide_border=true" />
-  <div>
 </div>
