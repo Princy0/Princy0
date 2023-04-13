@@ -8,6 +8,8 @@
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Princy0&label=Profile%20views&color=0e75b6&style=flat" alt="Princy0" /> </p>
+
 ## 🏋 About Me
 
 ```python
