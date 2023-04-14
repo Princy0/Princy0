@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi, Nice to Meet You! <img src="https://giphy.com/embed/5ndklThG9vUUdTmgMn" width="30px">
+    Hi, Nice to Meet You! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <p align="center">   
