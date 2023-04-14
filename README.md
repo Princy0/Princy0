@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hi, Nice to Meet You! <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/UUNlWv7pmr516" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-l-UUNlWv7pmr516">via GIPHY</a></p> <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> -->
+   Hi, Nice to Meet You!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <p align="center">   
