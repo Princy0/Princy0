@@ -31,7 +31,7 @@ class Student:
         self.skill = ["Web Development", "SEO", "Blogger"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find interesting my profile :)")
+        print("Thanks for dropping by, Buy me a CHAII!! :)")
 
 
 me = Student()
