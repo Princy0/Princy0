@@ -26,7 +26,7 @@ class Student:
         self.name = "Prince Prajapati"
         self.role = "Student @Conestoga College"
         self.language_programming = ["Python", "C#", "JS"]
-        self.language_framework = ["Django", "ASP.NET", "jQury"]
+        self.language_framework = ["Django", "ASP.NET", "jQuery"]
         self.database = ["MongoDB", "MySQL", "Azure", "Google Cloud"]
         self.skill = ["Web Development", "SEO", "Blogger"]
 
