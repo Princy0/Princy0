@@ -28,6 +28,7 @@ class Student:
         self.language_programming = ["Python", "C#", "JS"]
         self.language_framework = ["Django", "ASP.NET", "jQuery"]
         self.database = ["MongoDB", "MySQL", "Azure", "Google Cloud"]
+        self.software_testing = ["Selenium", "NUnit", "JMeter", "Postman"]
         self.skill = ["Web Development", "SEO", "Blogger"]
 
     def say_hi(self):
