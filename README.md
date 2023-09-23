@@ -25,6 +25,7 @@ class Student:
     def __init__(self):
         self.name = "Prince Prajapati"
         self.role = "Alumni @Conestoga College"
+        self.internship = "Technical Analyst @GAO TEK Inc [May 22 - Aug 22]"
         self.language_programming = ["Python", "C#", "JS"]
         self.language_framework = ["Django", "ASP.NET", "jQuery"]
         self.database = ["MongoDB", "MySQL", "Azure", "Google Cloud"]
