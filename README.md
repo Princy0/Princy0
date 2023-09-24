@@ -28,7 +28,7 @@ class Student:
         self.internship = "Technical Analyst @GAO TEK Inc [May 22 - Aug 22]"
         self.language_programming = ["Python", "C#", "JS"]
         self.language_framework = ["Django", "ASP.NET", "jQuery"]
-        self.database = ["MongoDB", "MySQL", "Azure", "Google Cloud"]
+        self.database = ["MySQL", "Azure", "Google Cloud"]
         self.software_testing = ["Selenium", "NUnit", "JMeter", "Postman"]
         self.skill = ["Web Development", "SEO", "Blogger"]
 
